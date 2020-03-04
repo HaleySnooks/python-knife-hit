@@ -1,5 +1,7 @@
 # Python Knife Hit
 
+#[![Run on Repl.it](https://repl.it/badge/github/akmalhakimi1991/python-knife-hit)](https://repl.it/github/akmalhakimi1991/python-knife-hit)
+
 A Python clone of the popular hyper-casual mobile game called "Knife  Hit" powered by [Arcade](https://github.com/pvcraven/arcade)
 
 ![alt text](https://i.imgur.com/cDU2nNj.jpg)  
